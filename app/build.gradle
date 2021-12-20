@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.techsoft.kotlinproject"
+        applicationId "com.Yogify.kotlinproject"
         minSdk 21
         targetSdk 31
         versionCode 1

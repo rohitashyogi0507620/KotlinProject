@@ -1,10 +1,8 @@
-package com.techsoft.kotlinproject
+package com.Yogify.kotlinproject
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ArrayAdapter
 import android.widget.ListView
-import java.lang.reflect.Array
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
